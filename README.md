@@ -59,3 +59,10 @@ App available at http://localhost:3000
 - **Environment configuration** for different deployments
 - **Auto-reconnection** for WebSocket connections
 - **Error handling** and validation throughout
+
+## Demo video
+
+<iframe src="https://drive.google.com/file/d/1ZDuWkWal1i-Xk95ba0e2HcqF69sjgmwi/preview" width="640" height="360" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
+
+If the video does not display on GitHub, open it directly:
+https://drive.google.com/file/d/1ZDuWkWal1i-Xk95ba0e2HcqF69sjgmwi/view
